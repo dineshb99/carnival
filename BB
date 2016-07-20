@@ -1,6 +1,11 @@
 sajlnj jlcsdaks vd  dinesj badam
 dinesh badam
+<<<<<<< HEAD
 hello 
 
 second time adding
 from local repo
+=======
+editing done from remote origin master.
+from github.com
+>>>>>>> refs/remotes/origin/master
